@@ -14,3 +14,5 @@ const Gerahara = {
  challenge: "FreeCodeAcademy challenges"
 }
 ```
+
+![Gerahara github stats](https://github-readme-stats.vercel.app/api?username=Gerahara&show_icons=true&theme=dracula)
