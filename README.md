@@ -1,6 +1,6 @@
 ### Hi There, I'm Ger 👋
 
-- 📚 Teacher Assistant in The Bridge - FullStack Developer
+- 📚 FullStack Developer
 - 📩 You can contact me by e-mail: gerfersie@gmail.com
 - 🤗 Always learning, never give up
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GeerDev " alt="GeerDev" /> </p>
