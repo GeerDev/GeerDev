@@ -1,11 +1,14 @@
 ### Hi There, I'm Ger 👋
 
-- 📚 Full Stack Web Developer | DevOps Engineer | 
-- 📩 You can contact me by e-mail: gerfersie@gmail.com
-- 🤗 Always learning
+- 📚 Full Stack Web Developer | DevOps Engineer
 
-## 🌐 Conecta con mi trabajo
-> **[Visita mi Portfolio](https://geerdev.tech/)** *Aquí encontrarás mis.*
+## 🌐 Where to find me
+* **[Portfolio](http://geerdev.tech)**: My professional background and case studies.
+* **[Tech Blog](http://geerdev.tech/blog)**: Short-form articles on AI, development tips, and emerging tech.
                        
-##
-<a href="https://www.linkedin.com/in/geerdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## 📫 Connect with me
+* **LinkedIn:** [linkedin.com/in/tu-usuario](www.linkedin.com/in/geerdev/)
+* **Email:** [gerfersie@gmail.com]
+
+---
+*➰ AI will make us better programmers
