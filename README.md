@@ -1,6 +1,8 @@
 ### Hi There, I'm Ger 👋
 
-- 📚 Full Stack Web Developer | DevOps Engineer
+📚 Full Stack Web Developer | DevOps Engineer
+
+I am passionate about building optimized, scalable, secure digital solutions that deliver real value.
 
 ## 🌐 Where to find me
 * **[Portfolio](http://geerdev.tech)**: My professional background and case studies.
@@ -12,6 +14,3 @@
 
 ---
 ➰ Using AI-powered tools will make us better programmers.
-
-
-
