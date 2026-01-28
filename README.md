@@ -5,8 +5,8 @@
 I am passionate about creating optimized, scalable, accessible, and secure **digital solutions that deliver real value**.
 
 ## 🌐 Where to find me
-* **[Portfolio](http://geerdev.tech)**: My professional background as a programmer and notable projects.
-* **[Tech Blog](http://geerdev.tech/blog)**: I write short articles about the software ecosystem.
+* **[Portfolio](https://geerdev.tech/)**: My professional background as a programmer and notable projects.
+* **[Tech Blog](https://geerdev.tech/blog)**: I write short articles about the software ecosystem.
                        
 ## 📫 Connect and contact with me
 * **LinkedIn:** [Geerdev](https://www.linkedin.com/in/geerdev/)
@@ -14,4 +14,5 @@ I am passionate about creating optimized, scalable, accessible, and secure **dig
 
 ---
 ➰ Using AI-powered tools will make us better programmers.
+
 
