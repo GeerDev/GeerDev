@@ -11,5 +11,6 @@
 * **Email:** gerfersie@gmail.com
 
 ---
-➰ AI will make us better programmers
+➰ Using AI-powered tools will make us better programmers.
+
 
