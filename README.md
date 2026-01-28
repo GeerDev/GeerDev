@@ -7,10 +7,11 @@
 * **[Tech Blog](http://geerdev.tech/blog)**: Short-form articles on AI, development tips, and emerging tech.
                        
 ## 📫 Connect with me
-* **LinkedIn:** [www.linkedin.com/in/geerdev/](www.linkedin.com/in/geerdev/)
+* **LinkedIn:** [Geerdev](https://www.linkedin.com/in/geerdev/)
 * **Email:** gerfersie@gmail.com
 
 ---
 ➰ Using AI-powered tools will make us better programmers.
+
 
 
