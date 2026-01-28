@@ -7,8 +7,9 @@
 * **[Tech Blog](http://geerdev.tech/blog)**: Short-form articles on AI, development tips, and emerging tech.
                        
 ## 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/tu-usuario](www.linkedin.com/in/geerdev/)
-* **Email:** [gerfersie@gmail.com]
+* **LinkedIn:** [www.linkedin.com/in/geerdev/](www.linkedin.com/in/geerdev/)
+* **Email:** gerfersie@gmail.com
 
 ---
-*➰ AI will make us better programmers
+➰ AI will make us better programmers
+
